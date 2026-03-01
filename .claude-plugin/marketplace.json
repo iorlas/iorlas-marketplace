@@ -1,0 +1,22 @@
+{
+  "name": "iorlas-marketplace",
+  "owner": {
+    "name": "iorlas"
+  },
+  "metadata": {
+    "description": "Skills for brainstorming, decision-making, and creative thinking",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "iorlas-brainstorm",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-brainstorm.git"
+      },
+      "description": "Adaptive brainstorming & decision coaching. Detects your decision-making pattern and applies targeted techniques.",
+      "version": "5.0.0",
+      "strict": true
+    }
+  ]
+}
