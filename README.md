@@ -13,6 +13,7 @@ claude plugin marketplace add iorlas/iorlas-marketplace
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | [iorlas-brainstorm](https://github.com/iorlas/iorlas-brainstorm) | Adaptive brainstorming & decision coaching. Detects your decision-making pattern and applies targeted techniques. | `claude plugin install iorlas-brainstorm@iorlas-marketplace` |
+| [iorlas-learn](https://github.com/iorlas/iorlas-learn) | AI learning feedback loop: capture lessons (`/learn`) and load relevant lessons at session start (`/recall`). | `claude plugin install iorlas-learn@iorlas-marketplace` |
 
 ## Support
 

@@ -4,8 +4,8 @@
     "name": "iorlas"
   },
   "metadata": {
-    "description": "Skills for brainstorming, decision-making, and creative thinking",
-    "version": "1.0.0"
+    "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -16,6 +16,16 @@
       },
       "description": "Adaptive brainstorming & decision coaching. Detects your decision-making pattern and applies targeted techniques.",
       "version": "5.2.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-learn",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-learn.git"
+      },
+      "description": "AI learning feedback loop: capture lessons from sessions (/learn) and load relevant lessons at session start (/recall).",
+      "version": "1.0.0",
       "strict": true
     }
   ]
