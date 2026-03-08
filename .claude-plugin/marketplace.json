@@ -27,6 +27,16 @@
       "description": "AI learning feedback loop: capture lessons from sessions (/learn) and load relevant lessons at session start (/recall).",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "iorlas-idea",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-idea.git"
+      },
+      "description": "Fast idea capture for personal knowledge management. Dump thoughts, links, voice transcripts — they become structured, trackable idea files.",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
