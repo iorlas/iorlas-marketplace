@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "Kay (K) — personal knowledge base skills: capture (/kay-inbox), observations (/kay-reflect), triage (/kay-triage), consolidation (/kay-consolidate), and init (/kay-init). Replaces iorlas-inbox and iorlas-learn.",
+      "description": "Kay (K) — personal knowledge base skills for Claude Code.",
       "version": "1.3.0",
       "strict": true
     }
