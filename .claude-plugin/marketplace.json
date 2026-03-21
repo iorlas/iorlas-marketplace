@@ -19,23 +19,13 @@
       "strict": true
     },
     {
-      "name": "iorlas-learn",
+      "name": "iorlas-kay",
       "source": {
         "source": "url",
-        "url": "https://github.com/iorlas/iorlas-learn.git"
+        "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "AI learning feedback loop: capture lessons from sessions (/learn) and load relevant lessons at session start (/recall).",
-      "version": "1.0.0",
-      "strict": true
-    },
-    {
-      "name": "iorlas-inbox",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/iorlas/iorlas-inbox.git"
-      },
-      "description": "Universal capture for personal knowledge OS. Dump thoughts, tasks, links, voice transcripts — they become structured, trackable inbox files with auto-detected types and project context.",
-      "version": "2.0.0",
+      "description": "Kay (K) — personal knowledge base skills: capture (/kay-inbox), observations (/kay-reflect), triage (/kay-triage), consolidation (/kay-consolidate), and init (/kay-init). Replaces iorlas-inbox and iorlas-learn.",
+      "version": "1.3.0",
       "strict": true
     }
   ]
