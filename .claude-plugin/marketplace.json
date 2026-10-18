@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "plugins": [
     {
@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "Kay (K) \u2014 personal knowledge base skills for Claude Code.",
+      "description": "Kay (K) — personal knowledge base skills for Claude Code.",
       "version": "2.0.0",
       "strict": true
     },
@@ -45,7 +45,17 @@
         "repo": "iorlas/iorlas-delegate"
       },
       "description": "Deterministic router that tells an orchestrating session which lane, model and effort to use for each sub-task, from live plan limits and reset times. One skill with modes, plus init.",
-      "version": "0.8.0",
+      "version": "0.9.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-task-loop",
+      "source": {
+        "source": "github",
+        "repo": "iorlas/iorlas-task-loop"
+      },
+      "description": "Autonomous task loop over a bd (beads) backlog: parallel sessions in worktrees or slots claim, plan, delegate, verify, land and close beads, with a live dashboard of every task, session and worker.",
+      "version": "0.1.0",
       "strict": true
     }
   ]
