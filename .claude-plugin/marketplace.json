@@ -24,15 +24,15 @@
         "source": "url",
         "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "Kay (K) — personal knowledge base skills for Claude Code.",
+      "description": "Kay (K) \u2014 personal knowledge base skills for Claude Code.",
       "version": "2.0.0",
       "strict": true
     },
     {
       "name": "iorlas-my-language",
       "source": {
-        "source": "github",
-        "repo": "iorlas/iorlas-my-language"
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-my-language.git"
       },
       "description": "Personal chat register for Claude: message shapes, word caps, banned words. Re-injected after every compaction.",
       "version": "1.1.0",
@@ -41,8 +41,8 @@
     {
       "name": "iorlas-delegate",
       "source": {
-        "source": "github",
-        "repo": "iorlas/iorlas-delegate"
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-delegate.git"
       },
       "description": "Deterministic router that tells an orchestrating session which lane, model and effort to use for each sub-task, from live plan limits and reset times. One skill with modes, plus init.",
       "version": "0.12.0",
@@ -51,8 +51,8 @@
     {
       "name": "iorlas-task-loop",
       "source": {
-        "source": "github",
-        "repo": "iorlas/iorlas-task-loop"
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-task-loop.git"
       },
       "description": "Autonomous task loop over a bd (beads) backlog: parallel sessions in worktrees or slots claim, plan, delegate, verify, land and close beads, with a live dashboard of every task, session and worker.",
       "version": "0.3.2",
