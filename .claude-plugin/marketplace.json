@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "Kay (K) — personal knowledge base skills for Claude Code.",
+      "description": "Kay (K) \u2014 personal knowledge base skills for Claude Code.",
       "version": "2.0.0",
       "strict": true
     },
@@ -36,6 +36,16 @@
       },
       "description": "Personal chat register for Claude: message shapes, word caps, banned words. Re-injected after every compaction.",
       "version": "1.1.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-delegate",
+      "source": {
+        "source": "github",
+        "repo": "iorlas/iorlas-delegate"
+      },
+      "description": "Hand sub-tasks to worker models in a fixed lane order (Codex, Claude on the API credit, Sonnet on Max), with plan-limit awareness.",
+      "version": "0.1.0",
       "strict": true
     }
   ]
