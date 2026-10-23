@@ -45,7 +45,7 @@
         "url": "https://github.com/iorlas/iorlas-delegate.git"
       },
       "description": "Deterministic router that tells an orchestrating session which lane, model and effort to use for each sub-task, from live plan limits and reset times. One skill with modes, plus init.",
-      "version": "0.36.1",
+      "version": "0.36.2",
       "strict": true
     },
     {
