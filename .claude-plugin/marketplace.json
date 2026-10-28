@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   "plugins": [
     {
@@ -65,7 +65,7 @@
         "url": "https://github.com/iorlas/iorlas-perform.git"
       },
       "description": "Local Russian TTS on Apple Silicon: /perform turns a scenario into a multi-voice audio scene with timeline; cloned or designed voices, ElevenLabs-style tags, Fish Drama 3 or S2 Pro via mlx-audio.",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "strict": true
     }
   ]
