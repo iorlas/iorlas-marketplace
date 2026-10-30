@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/iorlas/iorlas-kay.git"
       },
-      "description": "Kay (K) \u2014 personal knowledge base skills for Claude Code.",
+      "description": "Kay (K) — personal knowledge base skills for Claude Code.",
       "version": "2.0.0",
       "strict": true
     },
@@ -45,7 +45,7 @@
         "url": "https://github.com/iorlas/iorlas-delegate.git"
       },
       "description": "Deterministic router that tells an orchestrating session which lane, model and effort to use for each sub-task, from live plan limits and reset times. One skill with modes, plus init.",
-      "version": "0.53.0",
+      "version": "0.53.1",
       "strict": true
     },
     {
