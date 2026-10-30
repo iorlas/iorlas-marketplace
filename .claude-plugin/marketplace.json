@@ -55,7 +55,7 @@
         "url": "https://github.com/iorlas/iorlas-task-loop.git"
       },
       "description": "Autonomous task loop over a bd (beads) backlog: parallel sessions in worktrees or slots claim, plan, delegate, verify, land and close beads, with a live dashboard of every task, session and worker.",
-      "version": "0.23.203",
+      "version": "0.23.204",
       "strict": true
     },
     {
