@@ -59,6 +59,16 @@
       "strict": true
     },
     {
+      "name": "iorlas-arch-review",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-arch-review.git"
+      },
+      "description": "Architecture review for AI-assisted development: measured facts (import graph, test-impact), model censuses and consults, grilling to decisions, enforcement rules. Read-only on the target repo.",
+      "version": "0.1.0",
+      "strict": true
+    },
+    {
       "name": "iorlas-perform",
       "source": {
         "source": "url",
@@ -66,6 +76,16 @@
       },
       "description": "Local Russian TTS on Apple Silicon: /perform turns a scenario into a multi-voice audio scene with timeline; cloned or designed voices, ElevenLabs-style tags, Fish Drama 3 or S2 Pro via mlx-audio.",
       "version": "0.8.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-pick-name",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-pick-name.git"
+      },
+      "description": "Pick a name for a project, package, repo, channel or skill: scans neighbouring names, generates with personas, screens every candidate, one profile per platform (PyPI, GitHub, YouTube, Telegram, Claude skill).",
+      "version": "0.1.0",
       "strict": true
     }
   ]
