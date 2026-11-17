@@ -85,7 +85,7 @@
         "url": "https://github.com/iorlas/iorlas-pick-name.git"
       },
       "description": "Pick a name for a project, package, repo, channel or skill: scans neighbouring names, generates with personas, screens every candidate, one profile per platform (PyPI, GitHub, YouTube, Telegram, Claude skill).",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "strict": true
     }
   ]
