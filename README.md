@@ -18,6 +18,7 @@ claude plugin marketplace add iorlas/iorlas-marketplace
 | [iorlas-task-loop](https://github.com/iorlas/iorlas-task-loop) | Autonomous task loop over a bd (beads) backlog with a live dashboard of tasks, sessions and workers. Pairs with iorlas-delegate. | `claude plugin install iorlas-task-loop@iorlas-marketplace` |
 | [iorlas-arch-review](https://github.com/iorlas/iorlas-arch-review) | Architecture review for AI-assisted development: measure, census, consult, grill, enforce. Read-only on the target repo. | `claude plugin install iorlas-arch-review@iorlas-marketplace` |
 | [iorlas-perform](https://github.com/iorlas/iorlas-perform) | `/perform`: scenario to multi-voice Russian audio scene with timeline, local on Apple Silicon (Fish Drama 3 / S2 Pro). | `claude plugin install iorlas-perform@iorlas-marketplace` |
+| [iorlas-think](https://github.com/iorlas/iorlas-think) | Thinking skills. mess-map: turn a dump of scattered thoughts into a map: typed cards, themes, links, open leads, and where to start. | `claude plugin install iorlas-think@iorlas-marketplace` |
 
 ## Support
 

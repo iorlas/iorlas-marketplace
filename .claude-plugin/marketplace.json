@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   "plugins": [
     {
@@ -86,6 +86,16 @@
       },
       "description": "Pick a name for a project, package, repo, channel or skill: scans neighbouring names, generates with personas, screens every candidate, one profile per platform (PyPI, GitHub, YouTube, Telegram, Claude skill).",
       "version": "0.2.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-think",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-think.git"
+      },
+      "description": "Thinking skills. mess-map: turn a dump of scattered thoughts into a map with open leads and the one question to start with.",
+      "version": "0.1.0",
       "strict": true
     }
   ]
