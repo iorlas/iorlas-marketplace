@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code skills by iorlas: brainstorming, learning, and more",
-    "version": "1.7.0"
+    "version": "1.8.0"
   },
   "plugins": [
     {
@@ -95,6 +95,16 @@
         "url": "https://github.com/iorlas/iorlas-think.git"
       },
       "description": "Thinking skills. mess-map: turn a dump of scattered thoughts into a map with open leads and the one question to start with.",
+      "version": "0.1.0",
+      "strict": true
+    },
+    {
+      "name": "iorlas-wip",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/iorlas-wip.git"
+      },
+      "description": "Private work-in-progress skills (needs git access to the private repo). First: channel-research.",
       "version": "0.1.0",
       "strict": true
     }
