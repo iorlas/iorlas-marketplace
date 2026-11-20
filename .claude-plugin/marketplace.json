@@ -99,6 +99,16 @@
       "strict": true
     },
     {
+      "name": "engineering-manager",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/iorlas/engineering-manager.git"
+      },
+      "description": "Engineering-manager skills. delivery-metrics: DORA, PR-flow and AI-adoption report from GitHub and Jira, three checkpoints, offline HTML.",
+      "version": "0.1.0",
+      "strict": true
+    },
+    {
       "name": "iorlas-wip",
       "source": {
         "source": "url",
