@@ -115,7 +115,7 @@
         "url": "https://github.com/iorlas/iorlas-wip.git"
       },
       "description": "Private work-in-progress skills (needs git access to the private repo). First: channel-research.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "strict": true
     }
   ]
