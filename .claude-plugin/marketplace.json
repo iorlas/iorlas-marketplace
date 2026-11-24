@@ -115,7 +115,7 @@
         "url": "https://github.com/iorlas/iorlas-wip.git"
       },
       "description": "Private work-in-progress skills (needs git access to the private repo). channel-research, live-record, ontology-designer, skill-designer.",
-      "version": "0.5.2",
+      "version": "0.5.3",
       "strict": true
     }
   ]
